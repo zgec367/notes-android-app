@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="note_title">Note title</string>
+    <string name="note_details">Note details</string>
+    <string name="geo_location">Geo location:</string>
+    <string name="croation">Croation</string>
+    <string name="english">English</string>
+    <string name="italian">Italian</string>
+    <string name="deutsche">Deutsche</string>
+    <string name="record">Record</string>
+    <string name="color">Color</string>
+    <string name="location">Location</string>
+    <string name="feeling">Feeling</string>
+    <string name="photo">Photo</string>
+    <string name="last_modification">Last modification:</string>
+    <string name="recording">Voice recording</string>
+    <string name="google_map_">Google map</string>
+    <string name="discard">Clear</string>
+    <string name="new_note">New note</string>
+    <string name="remove_note">Delete</string>
+    <string name="created">Created:</string>
+    <string name="updated">Updated:</string>
+    <string name="record_player">Record player</string>
+    <string name="just_now"> just now</string>
+    <string name="a_minute_ago"> a minute ago</string>
+    <string name="minutes_ago"> minutes ago</string>
+    <string name="hour_ago"> an hour ago</string>
+    <string name="hours_ago"> hours ago</string>
+    <string name="yesterday">"  yesterday"</string>
+    <string name="days_ago"> days ago</string>
+    <string name="before">before</string>
+    <string name="your_position">Your position</string>
+    <string name="street">Street address</string>
+    <string name="no_data">"No notes created "</string>
+    <string name="added_note">"Note successfully added"</string>
+    <string name="edited_note">"Note successfully edited"</string>
+    <string name="deleted_note">"Note successfully deleted"</string>
+
+
+
+</resources>

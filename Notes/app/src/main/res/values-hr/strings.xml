@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bilješke</string>
+    <string name="note_title">Naslov</string>
+    <string name="note_details">Detalji</string>
+    <string name="feeling">Osjećaj:</string>
+    <string name="geo_location">Geo lokacija:</string>
+    <string name="croation">Hrvatski</string>
+    <string name="english">Engleski</string>
+    <string name="italian">Talijanski</string>
+    <string name="deutsche">Njemački</string>
+    <string name="photo">Fotografija</string>
+    <string name="location">Lokacija</string>
+    <string name="color">Boja</string>
+    <string name="record">Snimi</string>
+    <string name="last_modification">Zadnja promjena:</string>
+    <string name="recording">Snimanje glasa</string>
+    <string name="google_map_">Google karta</string>
+    <string name="discard">"Očisti "</string>
+    <string name="new_note">Nova bilješka</string>
+    <string name="remove_note">Obriši</string>
+    <string name="created">Kreirano:</string>
+    <string name="updated">Ažurirano:</string>
+    <string name="record_player">Player</string>
+    <string name="just_now">" upravo sada"</string>
+    <string name="minutes_ago">" minuta"</string>
+    <string name="yesterday">" jučer"</string>
+    <string name="days_ago">" dana"</string>
+    <string name="a_minute_ago">" minutu"</string>
+    <string name="hour_ago">" sat vremena "</string>
+    <string name="hours_ago">" sata"</string>
+    <string name="before">"prije "</string>
+    <string name="your_position">Tvoja lokacija:</string>
+    <string name="street">Uica:</string>
+    <string name="no_data">Nije kreirana niti jedna bilješka</string>
+    <string name="added_note">Bilješka uspješno kreirana</string>
+    <string name="edited_note">Bilješka uspješno ažurirana</string>
+    <string name="deleted_note">Bilješka uspješno izbrisana</string>
+</resources>

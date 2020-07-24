@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/actions"
+        android:icon="@drawable/ic_menu_black_24dp"
+        android:title="Action"
+        app:showAsAction="always">
+
+        <menu>
+            <item
+                android:id="@+id/photo"
+                android:icon="@drawable/ic_photo_black_24dp"
+                android:title="@string/photo" />
+            <item
+                android:id="@+id/feeling"
+                android:icon="@drawable/ic_insert_emoticon_black_24dp"
+                android:title="@string/feeling" />
+            <item
+                android:id="@+id/location"
+                android:icon="@drawable/ic_location_on_black_24dp"
+                android:title="@string/location" />
+            <item
+                android:id="@+id/color"
+                android:icon="@drawable/ic_color_lens_black_24dp"
+                android:title="@string/color" />
+            <item
+                android:id="@+id/record"
+                android:icon="@drawable/ic_mic_black_24d"
+                android:title="@string/record" />
+            <item
+                android:id="@+id/delete"
+                android:icon="@drawable/ic_delete_black_24dpda"
+                android:title="@string/remove_note" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/save"
+        android:icon="@drawable/ic_check_black_24dp"
+        android:title="save"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anmerkungen</string>
+    <string name="note_title">Titel</string>
+    <string name="note_details">Einzelheiten</string>
+    <string name="feeling">Gefühl:</string>
+    <string name="geo_location">Geo-Standort:</string>
+    <string name="croation">Kroatisch</string>
+    <string name="english">Englisch</string>
+    <string name="italian">Italienisch</string>
+    <string name="deutsche">Deutsche</string>
+    <string name="color">Farbe</string>
+    <string name="photo">Fotografie</string>
+    <string name="location">Standort</string>
+    <string name="record">Aufzeichnun</string>
+    <string name="last_modification">Letzte Änderungen:</string>
+    <string name="recording">Stimmaufnahme</string>
+    <string name="google_map_">Google karte</string>
+    <string name="discard">Reinigen</string>
+    <string name="new_note">Neue notiz</string>
+    <string name="remove_note">Löschen</string>
+    <string name="updated">Aktualisiert:</string>
+    <string name="created">Erstellt:</string>
+    <string name="record_player">Abspielgerät</string>
+    <string name="just_now">grade eben</string>
+    <string name="minutes_ago">" vor ein paar minuten"</string>
+    <string name="a_minute_ago">" vor einer minute"</string>
+    <string name="hour_ago">" vor einer stunde"</string>
+    <string name="hours_ago">" vor stunden"</string>
+    <string name="yesterday">" gestern"</string>
+    <string name="days_ago">" vor tagen"</string>
+    <string name="before">vor</string>
+    <string name="street">Straße:</string>
+    <string name="your_position">Dein standpunkt:</string>
+    <string name="no_data">Keine notizen erstellt</string>
+    <string name="added_note">Hinweis erfolgreich hinzugefügt</string>
+    <string name="edited_note">Hinweis erfolgreich bearbeitet</string>
+    <string name="deleted_note">Hinweis erfolgreich gelöscht</string>
+</resources>
